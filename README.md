@@ -6,3 +6,5 @@ Task1 -> Iris Flower Prediction
 Task2 -> Stock price Prediction
 
 Task3 -> Car Price Prediction
+
+Task4 -> Email Spam Detection
